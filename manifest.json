@@ -1,0 +1,17 @@
+{
+    "name": "Cherry search",
+    "version": "0.0.1",
+    "description": "Cherry search - Omnibox",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "permissions": ["storage", "tabs"],
+    "host_permissions": ["https://cherry.local.com/"],
+    "background": {
+        "service_worker": "serviceWorker.js"
+    },
+    "omnibox": {"keyword": "cy"} 
+}
