@@ -6,5 +6,5 @@ I'm testing this basic extension by loading the unpacked source code into Chrome
 
 This will be improved by using the Personal Access Token provided in Cherry (once I figure out how it works).
 
-- Login to your cherry instance
+- Login to your Cherry instance
 - Type "cy" + tab in the search bar to search.
