@@ -1,4 +1,5 @@
-Chrome extension for Cherry: https://cherry.haishan.me/
+Omnibox - Chrome extension for Cherry: https://cherry.haishan.me/
+
 
 Setup "host_permissions" (the domain where cherry is hosted) in manifest.json.
 
